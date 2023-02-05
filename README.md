@@ -1,4 +1,4 @@
-# Project 구멍마켓 정동현
+# Project 구멍마켓 FE 정동현
 ## 담당 Part 
 > 1. 메인 페이지
 ```
