@@ -2,20 +2,24 @@
 ## 담당 Part 
 > 1. 메인 페이지 (Nav, Header ,Footer ,MainContnet)
 
+```
 ┣ 📂pages
 ┃ ┣ 📂Main
 ┃ ┃ ┣ 📜Main.jsx
 ┃ ┃ ┗ 📜Main.scss
+```
 
 > 2. 장바구니
 
+```
 ┣ 📂pages
 ┃ ┣ 📂Mainbasket
 ┃ ┃ ┣ 📜Mainbasket.jsx
 ┃ ┃ ┗ 📜Mainbasket.scss
- 
+```
  > 3. 그 외 Component
 
+```
 ┣ 📂components
 ┃ ┣ 📂Basket
 ┃ ┃ ┣ 📜Basket.jsx
@@ -41,6 +45,6 @@
 ┃ ┃ ┣ 📜Nav.jsx
 ┃ ┃ ┣ 📜Nav.scss
 ┃ ┃ ┗ 📜TrueNav.jsx
- 
+```
  
  
