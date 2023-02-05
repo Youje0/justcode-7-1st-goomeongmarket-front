@@ -48,5 +48,5 @@
  > 프로젝트 이후 리팩을 진행하으나 팀 전체가 아닌 해당 파트의 BE와 개인적으로 진행하여서 현재 배포중인 version과는 상이하며 현재 branch가 가장 최신 version임.
 
 ## 회고
-https://url.kr/26rp37
+> https://url.kr/26rp37
  
