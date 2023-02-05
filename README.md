@@ -1,6 +1,7 @@
 # Project 구멍마켓 정동현
 ## 담당 Part 
 > 1. 메인 페이지 (Nav, Header ,Footer ,MainContnet)
+
 src
  ┣ 📂pages
  ┃ ┣ 📂Main
@@ -8,7 +9,8 @@ src
  ┃ ┃ ┗ 📜Main.scss
 
 > 2. 장바구니
-> src
+
+src
  ┣ 📂pages
  ┃ ┣ 📂Mainbasket
  ┃ ┃ ┣ 📜Mainbasket.jsx
@@ -16,7 +18,7 @@ src
  
  > 3. 그 외 Component
 
-┣ 📂components
+ ┣ 📂components
  ┃ ┣ 📂Basket
  ┃ ┃ ┣ 📜Basket.jsx
  ┃ ┃ ┣ 📜Basket.scss
